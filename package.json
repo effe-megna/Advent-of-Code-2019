@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Advent of Code 2019 in typescript, using functional flavours",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Francesco Megna",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^24.0.23",
+    "fp-ts": "^2.2.0",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
